@@ -62,6 +62,11 @@ a:hover {
  	transition: 0.12s;
 }
 
+#closed:hover {
+	border: 8px solid #6f7d8e;
+ 	transition: 0.12s;
+}
+
 footer
 {
 	text-align: center;
